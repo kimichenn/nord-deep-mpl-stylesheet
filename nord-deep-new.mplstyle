@@ -1,0 +1,39 @@
+# For Nord Deep Version 0.1.624
+
+legend.frameon: True
+legend.numpoints: 1
+legend.scatterpoints: 1
+xtick.direction: out
+ytick.direction: out
+axes.axisbelow: True
+font.family: sans-serif
+grid.linestyle: -
+lines.solid_capstyle: round
+
+# Seaborn darkgrid parameters
+axes.grid: True
+axes.edgecolor: e5e9f0
+axes.linewidth: 2
+xtick.major.size: 10
+ytick.major.size: 5
+xtick.minor.size: 0
+ytick.minor.size: 0
+
+text.color: e5e9f0
+axes.labelcolor: e5e9f0
+xtick.color: e5e9f0
+ytick.color: e5e9f0
+grid.color: e5e9f0
+
+font.sans-serif: Overpass, Helvetica, Helvetica Neue, Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
+axes.prop_cycle: cycler('color', ['81a1c1', 'bf616a', '8fbcbb', 'a3be8c', 'b48ead', 'ebcb8b'])
+image.cmap: PuBu
+figure.facecolor: 1d2129
+axes.facecolor: 1d2129
+savefig.facecolor: 1d2129
+
+patch.edgecolor: e5e9f0
+errorbar.capsize: 5
+
+
+# lines.markeredgecolor: b48ead
