@@ -1,6 +1,6 @@
-# nord-deep-mpl-stylesheet
+# Nord Deep Matplotlib Stylesheets
 
-### A matplotlib stylesheet heavily based on Marlos's [VSCode Nord Deep Theme](https://github.com/marlosirapuan/vscode-theme-nord-deep) with influence from Dominik Haitz's [matplotlib stylesheets](https://github.com/dhaitz/matplotlib-stylesheets)
+### Based on Marlos's [VSCode Nord Deep Theme](https://github.com/marlosirapuan/vscode-theme-nord-deep) with influence from Dominik Haitz's [matplotlib stylesheets](https://github.com/dhaitz/matplotlib-stylesheets)
 
 `nord-deep.mplstyle` is inspired by Nord Deep v0.1.6.23 before the darker background update.
 <br>
@@ -23,5 +23,3 @@ plt.style.use('https://github.com/kimichenn/nord-deep-mpl-stylesheet/raw/main/no
 ## Contributing
 
 Feel free to modify the color orders or anything else you see fit and submit a PR.
-
-## Screenshots
