@@ -24,6 +24,7 @@ axes.labelcolor: e5e9f0
 xtick.color: e5e9f0
 ytick.color: e5e9f0
 grid.color: e5e9f0
+grid.alpha: 0.5
 
 font.sans-serif: Overpass, Helvetica, Helvetica Neue, Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
 axes.prop_cycle: cycler('color', ['81a1c1', 'bf616a', '8fbcbb', 'a3be8c', 'b48ead', 'ebcb8b'])
