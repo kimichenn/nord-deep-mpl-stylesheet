@@ -25,3 +25,11 @@ plt.style.use('https://github.com/kimichenn/nord-deep-mpl-stylesheet/raw/main/no
 Feel free to modify the color orders or anything else you see fit and submit a PR.
 
 ## Screenshots
+
+### Nord Deep v1.0.623
+
+![Nord Deep Preview](./img/nord-deep-sample.png)
+
+### Nord Deep New (v1.0.624)
+
+![Nord Deep New Preview](./img/nord-deep-new-sample.png)
