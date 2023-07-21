@@ -22,7 +22,7 @@ plt.style.use('https://github.com/kimichenn/nord-deep-mpl-stylesheet/raw/main/no
 
 ## Contributing
 
-Feel free to modify the color orders or anything else you see fit and submit a PR.
+Feel free to modify the color orders or anything else you see fit and submit a PR. If you have time, please run `preview.py` and update the screenshots below. Thanks!
 
 ## Screenshots
 
