@@ -4,7 +4,7 @@ import matplotlib.colors as mcolors
 from matplotlib.patches import Rectangle
 
 
-plt.style.use(r'nord-deep-new.mplstyle')
+plt.style.use(r'nord-white.mplstyle')
 # Fixing random state for reproducibility
 np.random.seed(19680801)
 

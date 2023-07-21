@@ -1,0 +1,40 @@
+# For Nord Deep Version 0.1.623
+
+
+legend.frameon: True
+legend.numpoints: 1
+legend.scatterpoints: 1
+xtick.direction: out
+ytick.direction: out
+axes.axisbelow: True
+font.family: sans-serif
+grid.linestyle: -
+lines.solid_capstyle: round
+
+axes.grid: True
+axes.edgecolor: 24292E
+axes.linewidth: 2
+xtick.major.size: 10
+ytick.major.size: 5
+xtick.minor.size: 0
+ytick.minor.size: 0
+
+text.color: 24292E
+axes.labelcolor: 24292E
+xtick.color: 24292E
+ytick.color: 24292E
+grid.color: 6a737d
+grid.alpha: 1
+
+font.sans-serif: Overpass, Helvetica, Helvetica Neue, Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
+axes.prop_cycle: cycler('color', ['005CC5', 'B31D28', '2F6F9F', '22863A', '800080', 'CD9731'])
+image.cmap: PuBu
+figure.facecolor: ffffff
+axes.facecolor: ffffff
+savefig.facecolor: ffffff
+
+patch.edgecolor: 24292E
+errorbar.capsize: 5
+
+
+# lines.markeredgecolor: b48ead
