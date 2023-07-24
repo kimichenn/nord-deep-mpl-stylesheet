@@ -36,5 +36,14 @@ savefig.facecolor: 232731
 patch.edgecolor: e5e9f0
 errorbar.capsize: 5
 
+boxplot.boxprops.linewidth: 2
+boxplot.capprops.linewidth: 2
+boxplot.flierprops.linewidth: 2
+boxplot.flierprops.markeredgewidth: 1
+boxplot.flierprops.markersize: 7
+boxplot.whiskerprops.linewidth: 2
+boxplot.meanprops.linewidth: 2
+boxplot.medianprops.linewidth: 2
+boxplot.showmeans: False
 
 # lines.markeredgecolor: b48ead
